@@ -1,0 +1,17 @@
+{
+  "label": "smollm2-1.7b-instruct",
+  "model": "HuggingFaceTB/SmolLM2-1.7B-Instruct",
+  "device": "cpu",
+  "dtype": "torch.float32",
+  "num_layers": 24,
+  "num_words": 27,
+  "best_layer": 23,
+  "best_separation": 0.4709,
+  "layer_data": [
+    {
+      "layer": 0,
+      "rel_avg": 0.1145,
+      "unrel_avg": 0.0618,
+      "separation": 0.0528,
+      "p_value": 0.078852,
+      "significant": 
